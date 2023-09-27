@@ -1,0 +1,31 @@
+.banner  {
+    background-color:#b78727;
+    width:100%;
+    height:90px;
+}
+
+.banner-text {
+    color:white;
+    position:absolute;
+    top:10%;
+    left:47%;
+    transform:transform;
+}
+
+body {
+    background-color:#f0dc82;
+}
+
+.container {
+      background-color:#008080;
+}
+
+.vl {
+  border-left: 6px solid black;
+  height: auto;
+}
+
+.task_heading {
+  color:white;
+  font-family: serif;
+}
